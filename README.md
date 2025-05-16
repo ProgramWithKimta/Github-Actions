@@ -15,6 +15,10 @@
 Module 20 challenge is to take starter code and create a CI/CD pipeline using GitHub Actions to run the component tests via Cypress when a Pull Request is made to the develop branch, and the application is deployed when code is merged from develop to the main branch.
 
 ## Screenshots
+![Testing Image](image.png)
+![Testing Summary](image-3.png)
+![Deploy Image](image-1.png)
+![Deploy Summary](image-2.png)
 
 ## Installation Instructions
 Download the code to your local repository.
